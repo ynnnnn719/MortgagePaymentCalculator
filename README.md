@@ -29,11 +29,9 @@
 </p>
 若是輸入正確，按下按鈕或enter後會開始計算。提供兩種計算方式
 本息平均攤還法
-<img width="865" height="497" alt="image" src="https://github.com/user-attachments/assets/490f9e80-a893-4c8c-88e1-995e6bc92969" />
+<img width="765" height="397" alt="image" src="https://github.com/user-attachments/assets/490f9e80-a893-4c8c-88e1-995e6bc92969" />
 
 本金平均攤還法 
-<img width="865" height="494" alt="image" src="https://github.com/user-attachments/assets/da496226-8b52-46c1-9ad6-0cc86713d9a6" />
+<img width="765" height="394" alt="image" src="https://github.com/user-attachments/assets/da496226-8b52-46c1-9ad6-0cc86713d9a6" />
 
 
-
-問題排除與學習心得
